@@ -1,0 +1,14 @@
+{
+  "name": "scripter",
+  "version": "1.0.0",
+  "description": "Linux scripts in node.js to enhance productivity",
+  "main": "index.js",
+  "repository": "git@github.com:alxolr/scripter.git",
+  "author": "Alexandru Olaru <alxolr@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb-base": "^12.0.1",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
